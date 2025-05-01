@@ -4,6 +4,6 @@
 ._pycache_/
 __pycache__/
 houses.csv
-ecommerce-customers.csv
+kaggle-e-commerce-regression/ecommerce.csv
 
 
